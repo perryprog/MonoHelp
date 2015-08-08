@@ -10,3 +10,14 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+MonoHelper.iml
+.idea/.name
+.idea/encodings.xml
+.idea/compiler.xml
+.idea/workspace.xml
+.idea/modules.xml
+.idea/scopes
+.idea/misc.xml
+.idea/MonoHelp.iml
+.idea/vcs.xml
